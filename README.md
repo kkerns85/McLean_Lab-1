@@ -7,3 +7,5 @@ This is a repository for the McLean Lab and includes multiple approaches to deal
 WGS
 
 RNAseq
+
+NextFlow
