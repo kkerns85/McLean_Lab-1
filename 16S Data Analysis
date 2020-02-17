@@ -22,3 +22,9 @@ R scripts are provided under the "R_scripts_for_16S_analysis" folder.
 
 Example .biom, metadata, and tree files are also provided under the "files" folder.
 
+This workflow was used in the recent paper:
+
+Rapamycin rejuvenates oral health in aging mice
+Jonathan Y. An, Kristopher A. Kerns, Andrew Ouellette, Laura Robinson, Doug Morris, Catherine Kaczorowski, So-Il Park, Title Mekvanich, Alex Kang, Jeffrey S. McLean, Timothy C. Cox, Matt Kaeberlein
+bioRxiv 861369; doi: https://doi.org/10.1101/861369
+
