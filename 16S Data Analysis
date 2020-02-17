@@ -2,6 +2,21 @@ Author: Kristopher Kerns
 Affiliation: University of Washington School of Dentistry, OHS
 McLean Lab, Department of Periodontics 
 
-This is a basic workflow for an amplicon 16S rRNA Data analysis workflow using multiple packages in R.
+This basic workflow is used for amplicon 16S rRNA Data analysis for paried-end reads generated on an Illumina MiSeq.
 
+Raw reads are imported into Qiime2 (Python, v. 2019.1) 
+https://docs.qiime2.org/2019.1/tutorials/importing/
+
+Reads are filtered using the DADA2 plugin within the Qiime2 suite
+https://docs.qiime2.org/2019.1/plugins/available/dada2/
+
+A trained classfier using the 16S rRNA Human Oral Microbiome Database (HOMD, v. 15.1) assigns 
+Taxonomy to raw reads within Qiime2
+https://docs.qiime2.org/2019.1/tutorials/feature-classifier/
+
+Data is then exported from Qiime2 and imported into R in which multiple packages are used to analyze the data, 
+including but not limited to:
+phyloseq, clustivs, ggplot2, ampvis2, vegan, and ade4.
+
+R scripts are provided under the scripts folder.
 
