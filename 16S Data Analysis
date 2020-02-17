@@ -18,5 +18,7 @@ Data is then exported from Qiime2 and imported into R in which multiple packages
 including but not limited to:
 phyloseq, clustivs, ggplot2, ampvis2, vegan, and ade4.
 
-R scripts are provided under the scripts folder.
+R scripts are provided under the "R_scripts_for_16S_analysis" folder.
+
+Example .biom, metadata, and tree files are also provided under the "files" folder.
 
