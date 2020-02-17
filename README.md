@@ -1,11 +1,13 @@
 # Mclean_Lab
 
-This is a repository for the McLean Lab and includes multiple approaches to dealing with next generation sequencing outputs.
+This is a repository for the McLean Lab at the University of Washington 
 
-16S
+Included are multiple workflows for dealing and investigating next generation sequencing outputs.
 
-WGS
+16S: Qiime2, DADA2, Phyloseq, R
 
-RNAseq
+WGS: BBDuk, MetaSpades, Midas, Proka
 
-NextFlow
+RNAseq: BBDuk, MetaSpades, Midas, Proka, DeSeq2
+
+NextFlow: AWS Batch, MetaSpades, Midas
