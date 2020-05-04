@@ -1,13 +1,25 @@
 # Mclean_Lab
 
-This is a repository for the McLean Lab at the University of Washington 
+This is a repository for metagenomic tools and workflows for the McLean Lab, University of Washington School of Dentistry. 
+Here we provide tools and workflows for investigating the Oral Microbiome though the use of multi-omic stratagies including:
+- Meta-genomics (WGS)
+- Meta-transcriptomics (RNAseq)
+- Proteomics and Metabolomics
+- Amplicon Sequencing 
 
-Included are multiple workflows for dealing and investigating next generation sequencing outputs.
+We have also developed and Nextflow worklows for some of our pipelines that are optimized for running on AWS-Batch:
+- MIDAS
+- BINSANITY (currently being developed)
+- OMMG (currently being developled)
 
-16S: Qiime2, DADA2, Phyloseq, R
 
-WGS: BBDuk, MetaSpades, Midas, Proka
 
-RNAseq: BBDuk, MetaSpades, Midas, Proka, DeSeq2
 
-NextFlow: AWS Batch, MetaSpades, Midas
+
+
+
+
+
+
+Contact: kkerns85 At uw dot edu
+Visit our website for more information: "new site"
