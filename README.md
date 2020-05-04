@@ -8,7 +8,7 @@ Here we provide tools and workflows for investigating the Oral Microbiome though
 - Amplicon Sequencing 
 
 We have also developed and Nextflow worklows for some of our pipelines that are optimized for running on AWS-Batch:
-- MIDAS
+- MIDAS ./https://github.com/kkerns85/midas_nextflow
 - BINSANITY (currently being developed)
 - OMMG (currently being developled)
 
