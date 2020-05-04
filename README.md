@@ -1,4 +1,4 @@
-# Mclean_Lab
+# The Mclean Lab
 
 This is a repository for metagenomic tools and workflows for the McLean Lab, University of Washington School of Dentistry. 
 Here we provide tools and workflows for investigating the Oral Microbiome though the use of multi-omic stratagies including:
