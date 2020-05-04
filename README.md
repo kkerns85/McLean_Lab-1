@@ -21,5 +21,5 @@ We have also developed and Nextflow worklows for some of our pipelines that are 
 
 
 
-Contact: kkerns85 At uw dot edu
+Contact: kkerns85 At uw dot edu /
 Visit our website for more information: "new site"
